@@ -1,5 +1,7 @@
 <div align="center">
 
+<img width="1584" height="396" alt="moovendhan_banner" src="https://github.com/user-attachments/assets/cd49f32c-6d44-418e-b7de-f26b5b78b55c" />
+
 <!-- Animated terminal header -->
 <a href="https://github.com/moovendhan-v">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=FF6B35&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=🔐+Cloud+Security+Engineer;☁️+AWS+%7C+DevOps+%7C+Backend;🛡️+Securing+infrastructure+at+scale" alt="Typing SVG" />
