@@ -2,16 +2,13 @@
 
 <img width="1584" height="396" alt="moovendhan_banner" src="https://github.com/user-attachments/assets/a291c96a-f9fd-41bf-93a2-28d689dc9ba6" />
 
-
 <!-- Animated terminal header -->
 <a href="https://github.com/moovendhan-v">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=FF6B35&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=🔐+Cloud+Security+Engineer;☁️+AWS+%7C+DevOps+%7C+Backend;🛡️+Securing+infrastructure+at+scale" alt="Typing SVG" />
 </a>
 
-<!-- Animated divider -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B35,50:1A1A2E,100:E63946&height=80&section=header&animation=fadeIn" />
 
-<!-- Animated banner -->
 <img src="https://capsule-render.vercel.app/api?type=slice&color=0:1A1A2E,100:FF6B35&height=200&section=header&text=MOOVENDHAN&fontSize=72&fontColor=FFFFFF&fontAlignY=55&desc=AWS+Security+%7C+DevOps+%7C+Backend+Engineering&descAlignY=80&descSize=18&animation=twinkling" width="100%"/>
 
 </div>
@@ -24,29 +21,36 @@
 [![Security](https://img.shields.io/badge/Security-Focused-E63946?style=for-the-badge&logo=letsencrypt&logoColor=white)](#)
 [![DevOps](https://img.shields.io/badge/DevOps-Practitioner-4361EE?style=for-the-badge&logo=githubactions&logoColor=white)](#)
 [![Location](https://img.shields.io/badge/📍_Puducherry-India-2A9D8F?style=for-the-badge)](#)
+[![Certified](https://img.shields.io/badge/AWS_SAA--C03-Certified-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)](#)
 
 </div>
 
 ---
 
-## `$ whoami`
+## ✨ About Me
 
 ```bash
 ┌──────────────────────────────────────────────────────────────────┐
 │  moovendhan@cloud:~$ cat about.json                              │
 ├──────────────────────────────────────────────────────────────────┤
 │  {                                                                │
-│    "role"      : "AWS Cloud & Security Engineer",                │
-│    "focus"     : ["Cloud Security", "DevOps", "Backend"],        │
+│    "name"      : "Moovendhan V",                                 │
+│    "role"      : "Backend & DevOps Engineer",                    │
+│    "focus"     : ["Cloud Security", "AWS", "Backend Systems"],   │
 │    "location"  : "Puducherry, India",                            │
-│    "passion"   : "Automating everything that can be automated",  │
-│    "status"    : "🟢 Open to opportunities",                     │
-│    "website"   : "https://agricreations.com"                     │
+│    "experience": "2+ years, building & securing cloud infra",    │
+│    "certified" : "AWS Certified Solutions Architect – Associate",│
+│    "creator"   : "Runs CyberTechMind — tech content brand",      │
+│    "mantra"    : "Automate everything. Trust nothing. Verify always." │
 │  }                                                                │
 └──────────────────────────────────────────────────────────────────┘
 ```
 
-> 🔐 I build secure, scalable cloud infrastructure on AWS — with an obsession for hardened pipelines, least-privilege IAM policies, and zero-downtime deployments. If it can be automated, it will be automated.
+> 🚀 I'm a backend & DevOps engineer who lives at the intersection of **cloud infrastructure, security, and automation**. I design AWS architectures (ECS Fargate, Lambda, API Gateway, RDS), build resilient CI/CD pipelines, and write infrastructure-as-code with Terraform — all with a security-first mindset.
+>
+> 📚 Outside of engineering, I run **[CyberTechMind](https://cybertechmind.com)**, where I break down cloud and security concepts for a wider audience — turning "how does that even work?" into something anyone can follow.
+>
+> 🎯 Currently deep in AWS architecture, backend systems design, and finding new ways to automate the boring stuff.
 
 ---
 
@@ -131,23 +135,10 @@
 
 ## 📊 GitHub Dashboard
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=moovendhan-v&show_icons=true&theme=github_dark&bg_color=0D1117&border_color=FF6B35&title_color=FF6B35&icon_color=FF9900&text_color=C9D1D9&ring_color=E63946&hide_border=false&count_private=true&include_all_commits=true" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moovendhan-v&layout=compact&theme=github_dark&bg_color=0D1117&border_color=FF6B35&title_color=FF6B35&text_color=C9D1D9&hide_border=false&langs_count=8" />
-
-</div>
 
 <div align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=moovendhan-v&theme=dark&background=0D1117&border=FF6B35&stroke=FF6B35&ring=E63946&fire=FF9900&currStreakNum=FFFFFF&sideNums=C9D1D9&currStreakLabel=FF6B35&sideLabels=FF9900&dates=888888" alt="GitHub Streak" width="60%" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=moovendhan-v&bg_color=0D1117&color=FF6B35&line=E63946&point=FF9900&area_color=1A1A2E&area=true&hide_border=false&border_color=FF6B35&custom_title=Contribution%20Activity" width="95%" />
 
 </div>
 
@@ -171,17 +162,6 @@
 
 ---
 
-## 🚀 Currently Building
-
-| Project | Stack | Status |
-|---|---|---|
-| 🔐 Secure multi-account AWS landing zone | Terraform + AWS Control Tower | `In Progress` |
-| 🛡️ Automated security compliance checker | Python + AWS Config Rules | `In Progress` |
-| ⚙️ Zero-downtime deployment pipeline | GitHub Actions + ECS Blue/Green | `Active` |
-| 📦 Microservices with service mesh | Node.js + Docker + ALB | `Active` |
-
----
-
 ## 🏆 GitHub Achievements
 
 <div align="center">
@@ -196,7 +176,7 @@
 
 <div align="center">
 
-[![Website](https://img.shields.io/badge/Portfolio-agricreations.com-FF6B35?style=for-the-badge&logo=googlechrome&logoColor=white)](https://agricreations.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-cybertechmind.com-FF6B35?style=for-the-badge&logo=googlechrome&logoColor=white)](https://cybertechmind.com)
 [![GitHub](https://img.shields.io/badge/GitHub-moovendhan--v-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/moovendhan-v)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/moovendhan-v)
 
