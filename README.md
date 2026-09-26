@@ -1,6 +1,7 @@
 <div align="center">
 
-<img width="1584" height="396" alt="moovendhan_banner" src="https://github.com/user-attachments/assets/cd49f32c-6d44-418e-b7de-f26b5b78b55c" />
+<img width="1584" height="396" alt="moovendhan_banner" src="https://github.com/user-attachments/assets/a291c96a-f9fd-41bf-93a2-28d689dc9ba6" />
+
 
 <!-- Animated terminal header -->
 <a href="https://github.com/moovendhan-v">
